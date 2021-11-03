@@ -1,0 +1,21 @@
+body{
+    background-color: powderblue;
+    text-align: center;
+}
+
+form{
+    width: 400px;
+    height: 300px;
+    margin-left: 600px;
+    margin-top: 200px;
+    background-color: lavenderblush;
+    opacity: 0.6;
+    border-radius: 30px;
+    color: rgb(0, 0, 0);
+}
+
+#submit{
+    border: 2px solid rgb(116, 17, 17);
+    background: rgb(255, 131, 131);
+    color: rgb(0, 0, 0);
+}
